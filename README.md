@@ -2,6 +2,7 @@
 
 <div style="font-family:Garamond">
   <!-- Header text -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <div id="user-content-toc">
   <ul align="center">
      <img  src="assets/logo.png" alt="logo" width="190" />
@@ -31,14 +32,16 @@
            
 </div>
 
-<h3 align="center">I'm studying ORFE and CS @ Princeton, and passionate about optimizing machine learning for speed and size restrictions in practice! </h3>
+<!-- General Information -->
+   ## **About me**
+   - 👩‍💻 I am passionate about **optimizing machine learning for speed and size restrictions in practice!.**
+   - 🔭 Currently working on v2 of *MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction*. **Right now, I'm leading the development of a robust depth estimation pipeline and implementing a real-time dense SLAM system.**
+   - 🌱 Currently learning about **Bayesian Optimization and Space-Filling Designs**.
+   - 👨‍💻 Some of my projects are showcased here, while the majority remain proprietary!
+   - 📫 Feel free to reach out to me  **jeremy.bao@princeton.edu**.
+   - 👥 Connect with me on **[LinkedIn](https://www.linkedin.com/in/jeremy-bao/).**
 
-- 🔭 I’m currently working on v2 of MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction. Right now, I'm leading the development of a robust depth estimation pipeline and implementing a real-time dense SLAM system.
-- 👨‍💻 Some of my projects are showcased here, while the majority remain proprietary!
-
-- 🌱 I’m currently learning **PyTorch and Tensorflow**
-
-- 📫 How to reach me **jeremy.bao@princeton.edu**
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -63,17 +66,12 @@
 ![next.js](https://img.shields.io/badge/-next.js-000?&style=for-the-badge&logo=next.js)
 ![swift](https://img.shields.io/badge/-swift-000?&style=for-the-badge&logo=swift)
 
-<!--
-**jere-mybao/jere-mybao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Here are some ideas to get you started:
+ <!--end message -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <div align="center">
+   <p style="font-size: 35px"> 
+   </p>
+      Thank you for stopping by my GitHub profile! Explore my repositories and projects at your leisure. If you have questions, ideas, or would like to collaborate, don’t hesitate to get in touch.<p>    
+   </p>
