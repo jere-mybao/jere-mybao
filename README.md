@@ -16,6 +16,9 @@
 
   <!-- Badges  -->
   <div id="badges" align="center">
+  <a href="https://github.com/jere-mybao">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+   </a>
     
   </a>
   <a href="https://www.linkedin.com/in/jeremy-bao/">
