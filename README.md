@@ -39,7 +39,7 @@
    ## 🌐 **About me**
    - 👩‍💻 I am passionate about **agentic process automation**, **post-training**, and **generalist robots**
    - 🔭 Currently working on **cross-embodiement learning** and **calibrated reasoning**
-   - 📖 Currently reading **"LLM Engineer's Handbook"** by Paul Iusztin and Maxime Labonne
+   - 📖 Currently learning about **convex optimization** by Boyd and Vandenberghe
    - 👨‍💻 Some of my projects are showcased here, while the majority remain proprietary.
    - 📫 Feel free to reach out to me  **jeremy.bao@princeton.edu**.
    - 👥 Connect with me on **[LinkedIn](https://www.linkedin.com/in/jeremy-bao/).**
